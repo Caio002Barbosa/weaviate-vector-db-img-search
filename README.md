@@ -1,0 +1,1 @@
+# weaviate-vector-db-img-search
